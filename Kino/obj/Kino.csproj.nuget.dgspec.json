@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Johny\\source\\repos\\Kino\\Kino\\Kino.csproj": {}
+    "C:\\Users\\Johny\\Desktop\\KinoGame-learningCodeInCsharp\\Kino\\Kino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Johny\\source\\repos\\Kino\\Kino\\Kino.csproj": {
+    "C:\\Users\\Johny\\Desktop\\KinoGame-learningCodeInCsharp\\Kino\\Kino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Johny\\source\\repos\\Kino\\Kino\\Kino.csproj",
+        "projectUniqueName": "C:\\Users\\Johny\\Desktop\\KinoGame-learningCodeInCsharp\\Kino\\Kino.csproj",
         "projectName": "Kino",
-        "projectPath": "C:\\Users\\Johny\\source\\repos\\Kino\\Kino\\Kino.csproj",
+        "projectPath": "C:\\Users\\Johny\\Desktop\\KinoGame-learningCodeInCsharp\\Kino\\Kino.csproj",
         "packagesPath": "C:\\Users\\Johny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Johny\\source\\repos\\Kino\\Kino\\obj\\",
+        "outputPath": "C:\\Users\\Johny\\Desktop\\KinoGame-learningCodeInCsharp\\Kino\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Johny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -47,12 +49,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

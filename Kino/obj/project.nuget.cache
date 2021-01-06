@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "y17D/kh9OynVJYQ0xr9EgaHrVk+KocukeIxgGx2WkzC/9Y5qbOxLnkfgItcHtu2V+XrBJppZr0GcI0AiuGJ3GQ==",
+  "dgSpecHash": "bErBi3wY8hna6zTrtTSRSOYvkelJKdrbh0NEgzYue4Esx86kcfqjlF+mHAbdCZTNyJ5Ki5d9sjz+QEeted6L/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Johny\\source\\repos\\Kino\\Kino\\Kino.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Johny\\Desktop\\KinoGame-learningCodeInCsharp\\Kino\\Kino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johny\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Johny\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

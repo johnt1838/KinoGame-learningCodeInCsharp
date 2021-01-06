@@ -11,3 +11,16 @@ C:\Users\Johny\source\repos\Kino\Kino\obj\Debug\netcoreapp3.1\Kino.csproj.CoreCo
 C:\Users\Johny\source\repos\Kino\Kino\obj\Debug\netcoreapp3.1\Kino.dll
 C:\Users\Johny\source\repos\Kino\Kino\obj\Debug\netcoreapp3.1\Kino.pdb
 C:\Users\Johny\source\repos\Kino\Kino\obj\Debug\netcoreapp3.1\Kino.genruntimeconfig.cache
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\bin\Debug\netcoreapp3.1\Kino.exe
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\bin\Debug\netcoreapp3.1\Kino.deps.json
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\bin\Debug\netcoreapp3.1\Kino.runtimeconfig.json
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\bin\Debug\netcoreapp3.1\Kino.runtimeconfig.dev.json
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\bin\Debug\netcoreapp3.1\Kino.dll
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\bin\Debug\netcoreapp3.1\Kino.pdb
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\obj\Debug\netcoreapp3.1\Kino.csprojAssemblyReference.cache
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\obj\Debug\netcoreapp3.1\Kino.AssemblyInfoInputs.cache
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\obj\Debug\netcoreapp3.1\Kino.AssemblyInfo.cs
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\obj\Debug\netcoreapp3.1\Kino.csproj.CoreCompileInputs.cache
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\obj\Debug\netcoreapp3.1\Kino.dll
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\obj\Debug\netcoreapp3.1\Kino.pdb
+C:\Users\Johny\Desktop\KinoGame-learningCodeInCsharp\Kino\obj\Debug\netcoreapp3.1\Kino.genruntimeconfig.cache

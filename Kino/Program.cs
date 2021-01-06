@@ -57,6 +57,15 @@ namespace Kino
             {
                 //var generator = new RandomGenerator();
                 var randomNumber = generator.RandomNumber(1, 80); //problem -- the random numbers array may contain same numbers ! 
+                for ( int i = 0; i < Constants.computerChoose; i++ )
+                {
+                    if (computerNumbersTable[i] == randomNumber )
+                    {
+                        i = 0 ; // Re - DO the for loop to Re-CHECK. 
+                        randomNumber = generator.RandomNumber(1, 80);  // Assign New Random Number
+                     }
+
+                }
                 Console.WriteLine($"The machine picked the number: {randomNumber}");
                 computerNumbersTable[choosingLoop] = randomNumber;
                 kinoTable[randomNumber - 1]++;
