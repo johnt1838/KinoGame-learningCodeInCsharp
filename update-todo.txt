@@ -1,0 +1,2 @@
+TODO: 1. User can not pick dublicates. 
+      2. Visualize all the numbers 1-80 and maybe the numbers picked from machine with "()".
